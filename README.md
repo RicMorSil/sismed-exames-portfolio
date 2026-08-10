@@ -75,7 +75,7 @@ Username: modelo.sistema
 Password: Teste.123
 ```
 
-The seed password is public and must be changed immediately if the project is deployed anywhere beyond a disposable local demonstration.
+The initial password is public for viewing system functionalities.
 
 ## Author
 
