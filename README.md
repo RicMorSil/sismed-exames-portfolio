@@ -22,13 +22,16 @@ SISMED EXAMES was created to centralize operational activities related to exam c
 
 ## Technologies
 
-- PHP 8
-- MySQL
-- HTML5 and CSS3
-- JavaScript
-- Apache
-- Zebra BrowserPrint
-- QZ Tray
+<p>
+  <img src="https://img.shields.io/badge/PHP-8%2B-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8+">
+  <img src="https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/HTML5-WEB-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-STYLING-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Apache-WEB_SERVER-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache">
+  <img src="https://img.shields.io/badge/Zebra_BrowserPrint-LABEL_PRINTING-000000?style=for-the-badge" alt="Zebra BrowserPrint">
+  <img src="https://img.shields.io/badge/QZ_Tray-LABEL_PRINTING-228B22?style=for-the-badge" alt="QZ Tray">
+</p>
 
 ## Security decisions
 
