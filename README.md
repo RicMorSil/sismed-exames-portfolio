@@ -1,4 +1,4 @@
-# 💉 SISMED EXAMES
+# 💉 SISMED EXAMES — Laboratory Workflow Management
 
 Portfolio presentation of a web-based system developed to support exam collection, specimen identification, label printing, and operational monitoring.
 
@@ -67,6 +67,10 @@ Add screenshots without personal or sensitive information to `images/`. Suggeste
 [![Open the SISMED EXAMES demonstration](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ricmorsil.freedev.app/public/index.php)
 
 > ⚠️ This environment is intended exclusively for project presentation. All displayed data is fictional. Demo credentials are provided privately when required.
+
+**System Access**
+User: modelo.sistema
+Password: Teste.123
 
 ## Author
 
