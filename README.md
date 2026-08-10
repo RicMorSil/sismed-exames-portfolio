@@ -68,10 +68,8 @@ Add screenshots without personal or sensitive information to `images/`. Suggeste
 
 > ⚠️ This environment is intended exclusively for project presentation. All displayed data is fictional. Demo credentials are provided privately when required.
 
-**System Access**
-
-User: modelo.sistema
-
+**System Access**<br>
+User: modelo.sistema<br>
 Password: Teste.123
 
 ## Author
