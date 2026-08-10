@@ -68,9 +68,14 @@ Add screenshots without personal or sensitive information to `images/`. Suggeste
 
 > ⚠️ This environment is intended exclusively for project presentation. All displayed data is fictional. Demo credentials are provided privately when required.
 
-**System Access**<br>
-User: modelo.sistema<br>
+Demo seed account:
+
+```text
+Username: modelo.sistema
 Password: Teste.123
+```
+
+The seed password is public and must be changed immediately if the project is deployed anywhere beyond a disposable local demonstration.
 
 ## Author
 
