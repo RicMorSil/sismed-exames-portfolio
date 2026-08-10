@@ -70,6 +70,5 @@ Add screenshots without personal or sensitive information to `images/`. Suggeste
 
 ## Author
 
-Developed by **Richard Moreira**.
-
+Developed by **[Richard Moreira](https://github.com/RicMorSil).**.
 © 2026 Richard Moreira. All rights reserved.
