@@ -63,11 +63,10 @@ Add screenshots without personal or sensitive information to `images/`. Suggeste
 - [Security and privacy](docs/security.md)
 - [Screenshot preparation guide](images/README.md)
 
-## Live demo
+## 🚀 Live demo
+[![Open the SISMED EXAMES demonstration](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://industrial-quality-dashboard-32ugzffy56jx3prfazwlwp.streamlit.app/](https://ricmorsil.freedev.app/public/index.php))
 
-[Open the SISMED EXAMES demonstration](https://ricmorsil.freedev.app/public/index.php)
-
-> This environment is intended exclusively for project presentation. All displayed data is fictional. Demo credentials are provided privately when required.
+> ⚠️ This environment is intended exclusively for project presentation. All displayed data is fictional. Demo credentials are provided privately when required.
 
 ## Author
 
